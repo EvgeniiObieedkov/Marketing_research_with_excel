@@ -1,6 +1,6 @@
 ## Marketing_research_with_excel  
 
-###Introduction in the case  
+### Introduction in the case  
 May 2022. A mobile network operator is planning to expand into a new region.  
 You are participating in a marketing research project to determine which mobile tariff would be most popular among the target audience — subscribers aged 18–25.
 
